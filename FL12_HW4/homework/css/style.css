@@ -1,0 +1,30 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  background: #ffffff;
+  font-family: "Roboto Slab", serif;
+}
+
+.topHeader{
+  display: flex;
+  justify-content: space-between;
+  margin: 5% 20% 5% 20%;
+}
+
+.nav{
+  justify-content: space-between;
+}
+
+.nav a {
+  margin-right: 3%;
+}
+
+.img{
+  background: url(../img/home-bg.jpg);
+  min-height: 800px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
