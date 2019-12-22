@@ -376,5 +376,12 @@ body {
 .post-5 {
 	background: #2d95bb;
 }
+.mob{
+  display: flex;
+  flex-direction: row;
+}
+.date{
+  margin-right: 1%;
+}
 
 /* Your styles go here */
